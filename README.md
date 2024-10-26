@@ -21,9 +21,3 @@ I will be a Developer.
 </div>
 
 **NOTE**: Let's help each other 🤝
-
-    <div class="ground"></div>
-    <div class="mario"></div>
-  </div>
-</body>
-</html>
