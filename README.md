@@ -21,61 +21,7 @@ I will be a Developer.
 </div>
 
 **NOTE**: Let's help each other 🤝
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Running Mario Animation</title>
-  <style>
-    body {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      background-color: #87ceeb;
-      overflow: hidden;
-      margin: 0;
-    }
-    
-    .scene {
-      position: relative;
-      width: 100%;
-      height: 200px;
-      overflow: hidden;
-    }
 
-    .ground {
-      position: absolute;
-      bottom: 0;
-      width: 100%;
-      height: 50px;
-      background: #654321;
-    }
-
-    .mario {
-      position: absolute;
-      bottom: 50px;
-      width: 50px;
-      height: 50px;
-      background: url('https://www.spriters-resource.com/resources/sheets/44/47359.png?updated=1670588656') -40px -40px;
-      background-size: 200%;
-      animation: run 0.5s steps(4) infinite, jump 3s ease-in-out infinite;
-    }
-
-    @keyframes run {
-      0% { transform: translateX(0); }
-      100% { transform: translateX(1000px); }
-    }
-
-    @keyframes jump {
-      0%, 100% { transform: translateY(0); }
-      50% { transform: translateY(-100px); }
-    }
-  </style>
-</head>
-<body>
-  <div class="scene">
     <div class="ground"></div>
     <div class="mario"></div>
   </div>
