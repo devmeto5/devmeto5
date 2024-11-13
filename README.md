@@ -20,4 +20,4 @@ I will be a Developer.
     </a>
 </div>
 
-**NOTE**: Let's help each other 🤝
+**NOTE**: Let's help each other! 🤝
