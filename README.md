@@ -1,4 +1,4 @@
-# Hi... I'm Dmitrii 👋
+# Hi... I'm Dimitri 👋
 
 I will be a Developer
 
